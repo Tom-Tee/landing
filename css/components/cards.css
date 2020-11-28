@@ -1,0 +1,81 @@
+.master-card {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.master-card img {
+  display:flex;
+  flex-direction: column;
+
+}
+
+.master-card h4 p {
+  margin: 0;
+}
+
+h4 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.card-1 {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  object-fit: cover;
+  height: 150px;
+  width: 450px;
+  font-size: 14px;
+  font-weight: 400;
+/*  overflow: hidden;*/
+  background: white;
+  /*justify-content: space-around;*/
+  align-items: center;
+  text-align: left;
+  box-shadow: 0 0 15px rgba(0,0,0,.2);
+/*  background-image: url("https://source.unsplash.com/random/150x150");*/
+}
+
+.card-2 {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  /*height: 120px;*/
+  width: 450px;
+  font-size: 14px;
+  font-weight: 400;
+/*  overflow: hidden;*/
+  background: white;
+/*  justify-content: space-around;*/
+  align-items: center;
+  text-align: left;
+  box-shadow: 0 0 15px rgba(0,0,0,.2);
+}
+
+.card-3 {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  /*height: 120px;*/
+  width: 450px;
+  font-size: 14px;
+  font-weight: 400;
+/*  overflow: hidden;*/
+  background: white;
+/*  justify-content: space-around;*/
+  align-items: center;
+  text-align: left;
+  box-shadow: 0 0 15px rgba(0,0,0,.2);
+}
+
+.div-writing {
+  display: flex;
+  flex-direction: column;
+  margin-left: 32px;
+}
+
+.div-writing h4 p {
+  margin: 0;
+}
